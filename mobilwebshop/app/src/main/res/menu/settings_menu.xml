@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/shop"
+        android:title="Vissza a vásárláshoz"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/setting_button"
+        android:title="Profil"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.SearchView"
+        android:orderInCategory="1"
+        />
+
+    <item
+        android:id="@+id/log_out_button"
+        android:title="Kijelentkezés"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.SearchView"
+        android:orderInCategory="2"
+        />
+</menu>

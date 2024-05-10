@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Számítástechnikai eszköz webshop</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Postai cím</string>
+    <string name="buyer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírás.</string>
+    <string name="default_web_client_id">1060277474197-lcja8t87hel1t6rua2hob6vml4hp4fga.apps.googleusercontent.com</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+    <string name="role">Szerep</string>
+
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>ASUS TUF A15</item>
+        <item>ACER Veriton VX2690G</item>
+        <item>AMAZON Kindle Paperwhite</item>
+        <item>HP ProBook 445 G10</item>
+        <item>LG 34WP65CP</item>
+        <item>LENOVO IdeaPad Slim 3</item>
+        <item>NOKIA 150</item>
+        <item>OCULUS Quest 2</item>
+        <item>POCKETBOOK InkPad Color 3</item>
+        <item>XIAOMI Redmi Note 13 Pro</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Ez egy Asus TUF!</item>
+        <item>Ez egy Acer Veriton!</item>
+        <item>Ez egy Amazon Kindle!</item>
+        <item>Ez egy HP ProBook!</item>
+        <item>Ez egy LG monitor!</item>
+        <item>Ez egy Lenovo IdeaPad!</item>
+        <item>Ez egy Nokia telefon!</item>
+        <item>Ez egy Oculus!</item>
+        <item>Ez egy PocketBook!</item>
+        <item>Ez egy Xiaomi telefon!</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.9</item>
+        <item>4.3</item>
+        <item>5</item>
+        <item>4.6</item>
+        <item>4.2</item>
+        <item>3.7</item>
+        <item>2.8</item>
+        <item>4</item>
+        <item>4.3</item>
+        <item>3.8</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/asus_tuf_a15</item>
+        <item>@drawable/acer_veriton_vx2690g</item>
+        <item>@drawable/amazon_kindle_paperwhite</item>
+        <item>@drawable/hp_probook_445_g10</item>
+        <item>@drawable/lg_34wp65cp</item>
+        <item>@drawable/lenovo_ideapad_slim</item>
+        <item>@drawable/nokia_150</item>
+        <item>@drawable/oculus_899</item>
+        <item>@drawable/pocketbook_inkpad_color</item>
+        <item>@drawable/xiaomi_redmi_note_13_pro_5g</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>283190 Ft</item>
+        <item>357789 Ft</item>
+        <item>92090 Ft</item>
+        <item>379590 Ft</item>
+        <item>134990 Ft</item>
+        <item>189390 Ft</item>
+        <item>16490 Ft</item>
+        <item>139590 Ft</item>
+        <item>127890 Ft</item>
+        <item>169790 Ft</item>
+    </array>
+</resources>

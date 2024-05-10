@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1060277474197",
+    "project_id": "szamtechshop-15dff",
+    "storage_bucket": "szamtechshop-15dff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060277474197:android:8aec8f764a8e25a9305c9c",
+        "android_client_info": {
+          "package_name": "com.example.mobil_webshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060277474197-lcja8t87hel1t6rua2hob6vml4hp4fga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobil_webshop",
+            "certificate_hash": "cb48ede3d64d2d8f33d6f360da1ee79efd8a0f43"
+          }
+        },
+        {
+          "client_id": "1060277474197-cm8cig7d15vs2jiv06100v85rekd2sg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-sWJViiy7cYVb7QyJqWYW1Bu4XlWE4kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060277474197-cm8cig7d15vs2jiv06100v85rekd2sg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
